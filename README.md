@@ -1,21 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>aQRootG3</title>  
-	<link rel="stylesheet" href="style.css">
-  </head>
-  
-  <body>
-    <h1>Activer l'accès telnet via la commande QRCode Injection pour Aqara G3</h1>
-
-	<p align="center" width="100%">
-    <img src="https://user-images.githubusercontent.com/1288525/152621650-993c5630-c749-4758-9609-e5421df4d7ff.png"> 
-	<h1> Clique sur ce bouton pour installer aQRootG3 </h1>
-	  <input type="button" onclick="window.location.href = 'https://github.com/Wh1terat/aQRootG3/blob/main/aQRootG3.py';" value="aQRootG3" />
-	 
-  </body>
-  
+	 <h2><center>Activer l'accès telnet via la commande QRCode Injection pour Aqara G3</h2></center>
  <h2> Introduction </h2>
+   <img src="https://user-images.githubusercontent.com/1288525/152621650-993c5630-c749-4758-9609-e5421df4d7ff.png">
  
  <p> J'ai été déçu de voir que la caméra Aqara G3 n'était pas livrée avec telnet activé, j'ai donc réussi à récupérer une copie d'une mise à jour du micrologiciel pour une bonne analyse statique qui a confirmé qu'aucune des méthodes précédentes n'allait fonctionner.
 
