@@ -1,4 +1,4 @@
-	Activer l'accès telnet via la commande QRCode Injection pour Aqara G3
+	py aQRootG3.py [-h] ssid pwd [nom du fichier]
  <h2> Introduction </h2>
    <img src="https://user-images.githubusercontent.com/1288525/152621650-993c5630-c749-4758-9609-e5421df4d7ff.png">
  
