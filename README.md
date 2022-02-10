@@ -1,5 +1,5 @@
-	py aQRootG3.py [-h] ssid pwd [nom du fichier]
- <h2> Introduction </h2>
+
+<h2> Introduction </h2>
    <img src="https://user-images.githubusercontent.com/1288525/152621650-993c5630-c749-4758-9609-e5421df4d7ff.png">
  
  <p> J'ai été déçu de voir que la caméra Aqara G3 n'était pas livrée avec telnet activé, j'ai donc réussi à récupérer une copie d'une mise à jour du micrologiciel pour une bonne analyse statique qui a confirmé qu'aucune des méthodes précédentes n'allait fonctionner.
@@ -50,3 +50,6 @@ Un invité de commande va s'ouvrir, il vous reste plus qu'à suivre la fin du pr
   
   <p>Profitez.</p>
 </html>
+
+In addition with the Whiterat tuto 
+(https://github.com/Wh1terat)
